@@ -9,6 +9,10 @@ This project contains a series of data-driven analysis to determine which game i
 Note: This project was an extra credit assignment that I enjoyed doing. 
 I decided to upload it to GitHub to show my work.
 
+## Project result
+I'm glad to say here that the result of this project proved to have some singificance!
+This project was on the top 20 of my teachers list, that she made using her own model.
+
 ## Before running the code!
 
 This project has a `reports` directory which contains an already generated report!
